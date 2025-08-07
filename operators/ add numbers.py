@@ -1,0 +1,5 @@
+num = int(input('enter your number :  '))
+num1 = int(input('enter another number :  '))
+print('you entered:',num,end=' ')
+print(num1)
+print('add:',num +num1 )
