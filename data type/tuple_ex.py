@@ -1,0 +1,11 @@
+tuplex = tuple(('jack','jdh','ie'))
+print(tuplex)
+tuplew= tuple()
+print(tuplew)
+tupleq= (1.2,3.4)
+print(tupleq)
+print(type(tuplex))
+tupler = ('jack','jdh','ie')
+print(tupler)
+tuplex[0] = 'nissan'#tuple is unchangeable
+print(tuplex)
