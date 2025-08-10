@@ -11,3 +11,17 @@ s.add('jje')
 print(s)
 hj = sorted(s)
 print(hj)
+s.add('xx')
+print(s)
+s.clear()
+print(s)#set() will be output
+s.add('added')
+print(s)
+s.add("asd")#take only one argument
+print(s)
+s.discard("asd")
+print(s)
+s.discard('other')
+print(s)
+
+
