@@ -9,3 +9,4 @@ print(x.issubset(z))# true if x is subset of z
 print(z.issubset(x))
 print(x<=z)#true if x is subset of z
 print(z.issuperset(x))#true if z is superset of x
+print(z>=x)#true if z is superset of x
