@@ -1,2 +1,3 @@
 num = int(input(''))
-if num = 
+if num == 8:
+   print('hi')
