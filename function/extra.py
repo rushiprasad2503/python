@@ -1,9 +1,6 @@
-def factorial(n):
-    if n==1:
-        return 1
-    else :
-        return (n*factorial(n-1))
+import math
 
-num = int(input(" "))
-print(factorial(num))
+print(math.sqrt(4))
+
+      
     

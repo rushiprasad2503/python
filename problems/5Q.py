@@ -1,0 +1,8 @@
+num1= int(input(""))
+print("type before:",type(num1))
+num1 = str(num1)
+print("type after:",type(num1))
+num2 = str(input(''))
+print("type before:",type(num2))
+num2 = int(num2)
+print("type after: ",type(num2))
